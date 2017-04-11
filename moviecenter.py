@@ -1,9 +1,5 @@
 import media
 import fresh_tomatoes
-"""
-Create Movie Objects
-Movie data is hard coded here
-"""
 # Movie objects to store different movie details
 
 inglo_bas = media.Movie("Inglorious Basterds",

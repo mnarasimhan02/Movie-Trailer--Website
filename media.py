@@ -1,8 +1,11 @@
 class Movie():
-"""
-Class Movie to initiate and set movie title,
-storyline, poster image and trailer
-"""
+   """Class Movie to initiate and set movie attributes.
+       Attributes:
+	       movie_title
+	       movie_storyline
+	       poster_image
+	       trailer_youtube
+   """
    def __init__(self, movie_title,movie_storyline,poster_image,trailer_youtube):
        self.title = movie_title
        self.storyline = movie_storyline
